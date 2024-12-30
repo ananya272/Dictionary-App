@@ -1,4 +1,4 @@
-Dictinary App
+Dictionary App
 The Dictionary App is a web-based application that allows users to search for words and view their meanings, examples, synonyms, and phonetic pronunciations. The app uses the Free Dictionary API to fetch word data dynamically and provides an interactive, user-friendly interface.
 
 Features:
